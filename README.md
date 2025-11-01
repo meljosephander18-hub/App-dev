@@ -1,2 +1,6 @@
-# App-dev
-My first repository
+Favorite movie series
+{
+  "The Crow": "",
+  "IP MAN ": "",
+  "John wick": 
+}
